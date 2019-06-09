@@ -1,0 +1,1 @@
+{"game id":"123","connection id":"room name","live stamp":"live stamp","config":{"Joystick left":{"x axis input":"Horizontal","y axis input":"Vertical"},"Button right 1":{"axis input":"Fire","label":"Fire"}}}

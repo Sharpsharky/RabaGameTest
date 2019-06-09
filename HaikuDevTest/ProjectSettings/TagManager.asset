@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - EnableColliderLater
+  - 10
+  - 100
+  - 1000
+  - 99
+  - FxTemporaire
+  - SaleIcon
+  - MenuButton
+  - Piece
+  - Parent
+  - InventorySlot
+  - ReferenceCollider
+  - bodypart
+  - screwdriver
+  - Peg
+  - MoteText
+  - ball
+  - DogPuzzleBlock
+  - Dog
+  - player
+  - train
+  - weightTag
+  - boundaryTag
+  - quadrantsTag
+  - shuttleTag
+  - wallsTag
+  - floatingObjectCollider
+  - topWall
+  - downWall
+  - leftWall
+  - rightWall
+  - GearTeeth
+  - GearBody
+  - ConnectingNode
+  - ConnectingWire
+  - BallCollider
+  - MazePuzzleCollider
+  - MazePuzzleTarget
+  - MazePuzzleInnerCollider
+  - Molecule
+  - ManaManager
+  - Card
+  - Destination
+  - CardShadow
+  - LockBoxPuzzleKnobSprite
+  - FixedWires
+  - itemSlot_1
+  - itemSlot_2
+  - itemSlot_3
+  - itemSlot_4
+  - itemSlot_5
+  - itemSlot_6
+  - itemSlot_7
+  - Stalactite
+  - Cave
+  - TutorialPartialScreenBlocker
+  - TutorialOverlay
+  - Jar
+  - LeftGrenade
+  - MiddleGrenade
+  - RightGrenade
+  - JigsawPiece
+  - MirrorSprite
+  - SceneSaveManager
+  - DiscColor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1428161107
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2108967939
+    locked: 0
+  - name: Front FX
+    uniqueID: 3233945747
+    locked: 0
+  - name: GUI Background
+    uniqueID: 327782699
+    locked: 0
+  - name: GUI Foreground
+    uniqueID: 2573887623
+    locked: 0
+  - name: Frontmost
+    uniqueID: 963882125
+    locked: 0

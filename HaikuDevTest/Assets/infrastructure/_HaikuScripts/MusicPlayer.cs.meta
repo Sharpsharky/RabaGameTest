@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 9eb16d178a69745368eb847e5235f67f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - libraryMusic: {fileID: 8300000, guid: 2e08d36bade4a47b29da732aabd7cef4, type: 3}
+  - normalMusic: {fileID: 8300000, guid: 1f37b1791dd364c0a86c11c460741593, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
