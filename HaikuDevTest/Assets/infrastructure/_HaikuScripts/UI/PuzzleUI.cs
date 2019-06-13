@@ -56,7 +56,7 @@ public class PuzzleUI : MonoBehaviour {
     void Awake() {
         if (_skipButton != null) {
             if (_skipButton.activeSelf) {
-                _skipButton.SetActive(false);
+                _skipButton.SetActive(true);
             } else {
                 _skipButton = null;
             }
@@ -65,7 +65,7 @@ public class PuzzleUI : MonoBehaviour {
 
         if (_resetButton != null) {
             if (_resetButton.activeSelf) {
-                _resetButton.SetActive(false);
+                _resetButton.SetActive(true);
             } else {
                 _resetButton = null;
             }

@@ -27,11 +27,12 @@ public abstract class PuzzleController : MonoBehaviour, IPuzzleHandler {
 
 	#region IPuzzleHandler Methods
 	protected virtual void Win () {
+        
         if(_puzzleUI != null){
             _puzzleUI.Deactivate();
         }
        
-
+       
 		//-- Sending won event
 		if (_wonEventFsm != null) {
 			_wonEventFsm.SendEvent ("won");
